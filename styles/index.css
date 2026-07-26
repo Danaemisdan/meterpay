@@ -74,6 +74,11 @@ ul {
 /* Utilities */
 .text-center { text-align: center; }
 .bg-light-pink { background-color: var(--primary-light); }
+.bg-dark { background-color: var(--dark); }
+.bg-white { background-color: var(--white); }
+.text-center { text-align: center; }
+.text-white { color: var(--white); }
+.align-items-center { align-items: center; }
 .bg-dark { background-color: var(--dark); color: var(--white); }
 .text-white h2, .text-white h3, .text-white p { color: var(--white); }
 .highlight { color: var(--primary); }
